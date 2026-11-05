@@ -39,3 +39,5 @@ Code editor: [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&l
 * Websites (django)
 
 * Scripts
+
+***Special thanks***: best designer ever for helping me prettify my profile. ❣️
