@@ -5,6 +5,7 @@
 Heyy!! I'm a Python & C/C++ developer that focuses exclusively on developing FOSS under GNU GPLv3 license.
 
 Operating system: [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) 
+
 Code editor: [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
 <sup><sub>*i use arch btw*</sub></sup>
