@@ -13,7 +13,7 @@ Code editor: [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&l
 
 🤓 Currently interested in learning Rust.
 
-❗ Most projects are unfinished & frozen (lack of motivation).
+❗ Most projects are currently being maintained and have their roadmap.
 
 ## 🌋 Philosophy 🌋
 👩‍💻 On this GitHub page all my repositories will remain completely free to edit and use, although I do look for jobs, even if they require closed-source software. :)
